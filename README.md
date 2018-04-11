@@ -1,6 +1,6 @@
 # README
 
-A python (2 or 3) class to load data from a url. 
+A python (2 or 3) class to load JSON data from a url. 
 
 To use either:
 1) Intialise the class with a url and call get_data.
